@@ -4,6 +4,7 @@
     flex-direction: column;
     align-items: center;
     height: 2205.3px;
+    color: #363636;
 }
 .logo-image{
     margin-top: 100px;
@@ -18,5 +19,67 @@
     font-weight: 700;
     font-size: 16px;
     color: white;
+}
 
+.header-with-text{
+    width: 80vw;
+    margin: 40px 0px;
+}
+
+.header-text{
+    /*for questioncontainer.jsx*/
+    width: 40vw;
+    margin: 60px 0px;
+}
+
+.question{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.input-ans-for-question{
+    width: 30vw;
+}
+
+.ai-recs{
+    margin-top: 50px;
+    width: 70vw;
+}
+.header{
+    margin-top: 30px;
+}
+
+.output-content-el{
+    background-color: #d8d8d8;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 400px;
+    color: #363636;
+}
+.question-content-el{
+    background-color: #d8d8d8;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 1400px;
+    color: #363636;
+}
+.img-about-carbon{
+    margin: 50px;
+}
+.submit-btn{
+    transform: translateX(327px);
+}
+.paragraph{
+    width: 65vw;
+}
+.carbon-content-el{
+    background-color: #d8d8d8;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 800px;
+    color: #363636;
 }
