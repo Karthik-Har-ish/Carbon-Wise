@@ -1,7 +1,7 @@
 import { StrictMode } from "react";
 import { createRoot } from "react-dom/client";
 
-rootEl = createRoot(document.getElementById("root"))
+const rootEl = createRoot(document.getElementById("root"))
 
 rootEl.render(
     <StrictMode>
