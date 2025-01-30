@@ -43,7 +43,11 @@ export default function Output(){
             <h3 className="paragraph">
                 {outputTxt}
             </h3>
+            <Link to="/">
+             <a className="header">Home</a>
+            </Link>
         </div>
+        
             
         </>
     )

@@ -9,7 +9,8 @@ export default [
         text:"Carbon (footprint) calculators are a type of eco-feedback technology that helps people understand how they affect the environment. Users can get an estimate of their overall carbon footprint—which includes both direct and indirect greenhouse gas emissions—by entering information about their lifestyle and living conditions. Carbon calculators have the potential to serve as a link between the pressing need to mitigate the worst effects of climate change and individual behavior and lifestyle choices."
     },
     {
-        header:"What is Carbon Wise?"
+        header:"What is Carbon Wise?",
+        text:"CarbonWise is a personal carbon footprint calculator that helps you understand and reduce your greenhouse gas emissions, which can have an impact on the environment. CarbonWise encourages you to adopt more sustainable practices by offering a simple but effective way to track the carbon emissions from an individual's daily activities such as transportation, energy consumption, and waste management."
     }
 ]
 

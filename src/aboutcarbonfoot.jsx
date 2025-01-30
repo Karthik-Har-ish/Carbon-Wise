@@ -1,4 +1,5 @@
 import "./maincontent.css"
+import { Link } from "react-router-dom"
 
 export default function AboutCarbonFootprint(){
     return(
@@ -20,6 +21,9 @@ Buy recycled products: Choose recycled products and recycle things you no longer
 Support sustainable companies: Choose companies with strong sustainable practices. 
 You can use a carbon footprint calculator to estimate your carbon footprint. 
                 </div>
+                <Link to="/">
+             <a className="header">Home</a>
+            </Link>
             </div>
         </>
     )
